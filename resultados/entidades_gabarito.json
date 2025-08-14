@@ -1,0 +1,16 @@
+[
+    {"entidade": "ACÓRDÃO", "tipo": "Título"},
+    {"entidade": "Agravo de Instrumento nº 2116753-11.2020.8.26.0000", "tipo": "Nome_Recurso"},
+    {"entidade": "Comarca de São Paulo", "tipo": "Origem"},
+    {"entidade": "Banco do Brasil S/A", "tipo": "Recorrido"},
+    {"entidade": "João da Silva", "tipo": "Recorrente"},
+    {"entidade": "Ministro Paulo de Tarso Sanseverino", "tipo": "Nome_Desembargador/Ministro"},
+    {"entidade": "Deram provimento ao recurso", "tipo": "Resultado_Acórdão"},
+    {"entidade": "7 de julho de 2023", "tipo": "Data"},
+    {"entidade": "Cézar Zalaf", "tipo": "Nome_Relator"},
+    {"entidade": "VOTO Nº 5219", "tipo": "Voto"},
+    {"entidade": "17ª Câmara de Direito Privado", "tipo": "Orgao_Julgador"},
+    {"entidade": "EXPURGOS INFLACIONÁRIOS - JUROS REMUNERATÓRIOS", "tipo": "Tema_Keyword"},
+    {"entidade": "Extinta a obrigação principal, não mais se justifica a subsistência dos juros remuneratórios", "tipo": "Tema_Complemento"},
+    {"entidade": "Recurso Especial repetitivo (REsp nº 1.134.186/RS)", "tipo": "Tema_Recurso"}
+]

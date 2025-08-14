@@ -1,0 +1,146 @@
+[
+  {
+    "entidade": "EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO Nº 626.307",
+    "tipo": "Nome_Recurso"
+  },
+  {
+    "entidade": "MN",
+    "tipo": "Origem"
+  },
+  {
+    "entidade": "Dias Toffoli",
+    "tipo": "Nome_Desembargador/Ministro"
+  },
+  {
+    "entidade": "11.03.2011",
+    "tipo": "Data"
+  },
+  {
+    "entidade": "Agravo Interno Cível nº 2116753-11.2020.8.26.0000/50000",
+    "tipo": "Nome_Recurso"
+  },
+  {
+    "entidade": "Voto nº 16",
+    "tipo": "Voto"
+  },
+  {
+    "entidade": "Voto nº 17",
+    "tipo": "Voto"
+  },
+  {
+    "entidade": "RECURSO ESPECIAL Nº 1.070.896",
+    "tipo": "Tema_Recurso"
+  },
+  {
+    "entidade": "SC",
+    "tipo": "Origem"
+  },
+  {
+    "entidade": "SÚMULA Nº 150 DO SUPREMO TRIBUNAL FEDERAL",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "INFORMATIVO Nº 0484 DO SUPERIOR TRIBUNAL DE JUSTIÇA",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "RECURSO ESPECIAL Nº 1.273.643/PR",
+    "tipo": "Tema_Recurso"
+  },
+  {
+    "entidade": "PR",
+    "tipo": "Origem"
+  },
+  {
+    "entidade": "Min. Rel Sidnei Beneti",
+    "tipo": "Nome_Desembargador/Ministro"
+  },
+  {
+    "entidade": "27.02.2018",
+    "tipo": "Data"
+  },
+  {
+    "entidade": "22 SEÇÃO",
+    "tipo": "Orgao_Julgador"
+  },
+  {
+    "entidade": "AÇÃO DE PROTESTO Nº 2014.01.1.148561-3",
+    "tipo": "Nome_Recurso"
+  },
+  {
+    "entidade": "MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS",
+    "tipo": "Recorrente"
+  },
+  {
+    "entidade": "26 DE SETEMBRO DE 2014",
+    "tipo": "Data"
+  },
+  {
+    "entidade": "27 DE OUTUBRO DE 2009",
+    "tipo": "Data"
+  },
+  {
+    "entidade": "BANCO DO BRASIL S/A",
+    "tipo": "Recorrido"
+  },
+  {
+    "entidade": "ARTIGO 82 DO CÓDIGO DE DEFESA DO CONSUMIDOR",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "ARTIGO 83 DO CÓDIGO DE DEFESA DO CONSUMIDOR",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "LEI COMPLEMENTAR Nº 75/1998",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "AÇÃO CIVIL PÚBLICA",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "PRESCRIÇÃO QUINQUENAL DA EXECUÇÃO INDIVIDUAL",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "PRESCRIÇÃO VINTENÁRIA DO PROCESSO DE CONHECIMENTO",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "ART. 543-C DO CÓDIGO DE PROCESSO CIVIL",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "ART. 548-C DO CÓDIGO DE PROCESSO CIVIL",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "PROVIMENTO DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA",
+    "tipo": "Resultado_Acórdão"
+  },
+  {
+    "entidade": "TESE CONSOLIDADA",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "PRAZO PRESCRICIONAL DE CINCO ANOS PARA EXECUÇÃO INDIVIDUAL",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "PRAZO PRESCRICIONAL DE VINTE ANOS PARA AÇÃO DE CONHECIMENTO INDIVIDUAL",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "MINISTÉRIO PÚBLICO",
+    "tipo": "Recorrente"
+  },
+  {
+    "entidade": "MEDIDA CAUTELAR DE PROTESTO INTERRUPTIVO DO PRAZO PRESCRICIONAL",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "Tribunal de Justiça do Estado de São Paulo",
+    "tipo": "Orgao_Julgador"
+  }
+]

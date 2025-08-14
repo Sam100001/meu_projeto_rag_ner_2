@@ -1,0 +1,7 @@
+requests
+python-dotenv
+faiss-cpu
+langchain
+langchain-community
+scikit-learn
+sentence-transformers

@@ -1,0 +1,70 @@
+[
+  {
+    "entidade": "RECURSO ESPECIAL Nº 1.987.654 - SP (2023/XXXXXX-XX)",
+    "tipo": "Nome_Recurso"
+  },
+  {
+    "entidade": "Superior Tribunal de Justiça (STJ)",
+    "tipo": "Orgao_Julgador"
+  },
+  {
+    "entidade": "Tributário. ICMS. Isenção. Produtos farmacêuticos. Lei Estadual X/2020.",
+    "tipo": "Título"
+  },
+  {
+    "entidade": "MINISTRA MARIA APARECIDA AZEVEDO",
+    "tipo": "Nome_Desembargador/Ministro"
+  },
+  {
+    "entidade": "MINISTRA MARIA APARECIDA AZEVEDO",
+    "tipo": "Nome_Relator"
+  },
+  {
+    "entidade": "15 de março de 2024",
+    "tipo": "Data"
+  },
+  {
+    "entidade": "Estado de São Paulo",
+    "tipo": "Recorrido"
+  },
+  {
+    "entidade": "Farmácia Vida Boa Ltda.",
+    "tipo": "Recorrente"
+  },
+  {
+    "entidade": "Tributário",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "ICMS",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "Isenção fiscal",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "Produtos farmacêuticos",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "Lei Estadual X/2020",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "Recurso Especial",
+    "tipo": "Tema_Recurso"
+  },
+  {
+    "entidade": "por unanimidade, negar provimento ao recurso especial",
+    "tipo": "Resultado_Acórdão"
+  },
+  {
+    "entidade": "Voto da Relatora",
+    "tipo": "Voto"
+  },
+  {
+    "entidade": "Tribunal de Justiça do Estado de São Paulo (TJ-SP)",
+    "tipo": "Origem"
+  }
+]

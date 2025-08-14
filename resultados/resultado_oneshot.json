@@ -1,0 +1,54 @@
+[
+  {
+    "entidade": "ACÓRDÃO",
+    "tipo": "Título"
+  },
+  {
+    "entidade": "Recurso Ordinário em Mandado de Segurança nº 5001234-56.2022.4.01.0000",
+    "tipo": "Nome_Recurso"
+  },
+  {
+    "entidade": "Seção Judiciária do Rio de Janeiro",
+    "tipo": "Origem"
+  },
+  {
+    "entidade": "Maria Oliveira Santos",
+    "tipo": "Recorrente"
+  },
+  {
+    "entidade": "Instituto Nacional do Seguro Social (INSS)",
+    "tipo": "Recorrido"
+  },
+  {
+    "entidade": "Ministra Ana Clara Martins",
+    "tipo": "Nome_Desembargador/Ministro"
+  },
+  {
+    "entidade": "15 de março de 2024",
+    "tipo": "Data"
+  },
+  {
+    "entidade": "VOTO Nº 3456",
+    "tipo": "Voto"
+  },
+  {
+    "entidade": "3ª Turma do Tribunal Regional Federal da 1ª Região",
+    "tipo": "Orgao_Julgador"
+  },
+  {
+    "entidade": "negou provimento ao recurso",
+    "tipo": "Resultado_Acórdão"
+  },
+  {
+    "entidade": "BENEFÍCIO PREVIDENCIÁRIO - APOSENTADORIA POR INVALIDEZ",
+    "tipo": "Tema_Keyword"
+  },
+  {
+    "entidade": "A perícia médica comprovou a incapacidade permanente para o trabalho",
+    "tipo": "Tema_Complemento"
+  },
+  {
+    "entidade": "Recurso Especial interposto (REsp nº 1.234.567/SP)",
+    "tipo": "Tema_Recurso"
+  }
+]
