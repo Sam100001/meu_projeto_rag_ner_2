@@ -179,11 +179,11 @@ def parse_llm_json(conteudo: str):
 
 def chamar_mistral(prompt: str):
     headers = {
-        "Authorization": f"Bearer {MISTRAL_API_KEY}",
+        "xxxxxxxx": f"xxxxx {MISTRAL_API_KEY}",
         "Content-Type": "application/json"
     }
     payload = {
-        "model": MODEL_MISTRAL,
+        "model": xxxxxx,
         "messages": [{"role": "user", "content": prompt}],
         # importante: nós pedimos explicitamente apenas JSON na instrução;
         # evitar forçar json_object porque alguns modelos encapsulam em dict.
