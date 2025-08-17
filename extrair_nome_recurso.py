@@ -8,9 +8,9 @@ TIPO_DESEJADO = "Nome_Recurso"
 ARQUIVO_ACORDAO = "data/acordao.txt"
 ARQUIVO_GABARITO = "resultados/entidades_gabarito.json"
 
-MISTRAL_API_KEY = "jvpfO8FcTc5jZV9oIuJpYaALI7QSi4Qj"
-MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
-MODEL_MISTRAL = "mistral-small"
+MISTRAL_API_KEY = "xxxxxxxxx"
+MISTRAL_API_URL = "xxxxxxxx"
+MODEL_MISTRAL = "xxxxxxx"
 
 # ----------------- UTIL -----------------
 def normalizar_texto(texto: str) -> str:
